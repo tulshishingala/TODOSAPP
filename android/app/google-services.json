@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785178381034",
+    "project_id": "tulsi-31e32",
+    "storage_bucket": "tulsi-31e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785178381034:android:163208506a9e78d51ee593",
+        "android_client_info": {
+          "package_name": "com.tulsi.todosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785178381034-8d19mcb1m7s8s1cvg2dhu53veaghtage.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYZ-wFPahZIZddSpBCACzzOOg_KykjeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785178381034-8d19mcb1m7s8s1cvg2dhu53veaghtage.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
